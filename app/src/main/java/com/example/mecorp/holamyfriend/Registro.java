@@ -20,12 +20,10 @@ import java.util.ArrayList;
 
 public class Registro extends AppCompatActivity {
 
-    //private TextInputLayout tilPassword, tilLogin1;
     Button paso2;
     Button salir;
     EditText login, password, passwordRepeat, phone, name, surname;
     TextInputLayout tilLogin, tilPassword, tilPasswordRepeat;
-            //, tilMovilPhone, tilName, tilSurname;
     RadioButton bSoltero, bCasado;
     OdtUsuario usu;
     boolean emailRepeat = true;
@@ -91,9 +89,7 @@ public class Registro extends AppCompatActivity {
         if(isValidEmail(logo)) {
             email = true;
             tilLogin.setError(getResources().getString(R.string.noError));
-            //tilLogin.setError("");
         }else tilLogin.setError(getResources().getString(R.string.loginError));
-        //tilLogin.setError("No es una dirección de correo electrónico válida");
 
         String pwd = password.getText().toString();
         for (int i = 0; i < pwd.length(); i++) {
