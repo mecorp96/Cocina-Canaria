@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cocina Conmigo</string>
+    <string name="loginHint">Correo Electrónico</string>
+    <string name="passwordHint">Contraseña</string>
+    <string name="passwordRepeatHint">Repite la Contraseña</string>
+    <string name="movilPhoneHint">Telefono Móvil</string>
+    <string name="nameHint">Nombre</string>
+    <string name="surnameHint">Apellidos</string>
+    <string name="stateHint">Estado Actual</string>
+    <string name="favFoodHint">Comida favorita</string>
+    <string name="favIngredientHint">Ingrediente favorito</string>
+    <string name="foodTypeHint">Tipo favorito</string>
+    <string name="favDrinkHint">Bebida Favorita</string>
+    <string name="passwordErrorM">Mínimo una mayúscula</string>
+    <string name="passwordErrorN">Mínimo un número</string>
+    <string name="passwordErrorR">La contraseña debe ser la misma</string>
+    <string name="passwordError">Mínimo una mayuscula, un número y tamaño 6</string>
+    <string name="loginError">No es una dirección de correo electrónico válida</string>
+    <string name="inicio">ACTUALIZACION:\n*Registro con imagen y login a FireBase\n*Recetas y creación en FireBase\n*Fragment Opciones con Verificar/Cambiar contraseña/Borrar cuenta\n*Fragment Perfil con todos sus datos\n*DrawerMenú puedes cambiar la foto en tu imagen\n*Floating Button para crear Recetas con imagen\n****ESPERO QUE LE GUSTE****\n*****GRACIAS*****</string>
+    <string name="papasArrugadas">Se denomina papas arrugadas a un modo de cocinar las papas, característico de las islas Canarias. Se usa principalmente un tipo de papa en concreto, la papa bonita, aunque pueden utilizarse otros tipos existentes en las Islas Canarias.</string>
+    <string name="mojoRojo">Es la salsa más famosa de las Islas Canarias, el mojo picón es el acompañamiento indispensable de algunos platos típicos de la gastronomía canaria como las papas arrugadas. Es un poco picante y de color rojizo por lo que también se le conoce como mojo rojo. Se trata de un producto esencial de la cocina canaria.</string>
+    <string name="mojoVerde">Una salsa canaria con vinagre, aceite, comino, ajo y perejil que también puede acompañar a las patatas, asados o cocidas, y verduras al vapor, así como carne y pescado a la barbacoa, y también pollo o pescado cocidos o a la plancha.</string>
+    <string name="tortillaCarnaval">Las tortillas de Carnaval o tortitas de Carnaval son típicas en Gran Canaria cuando llega la época del color y los disfraces. Con esta receta las puedes preparar de forma muy fácil en casa, ideal si tus niños las tienen que llevar al colegio para disfrutarlas con sus compañeros.</string>
+    <string name="truchasBatata">La Trucha de batata es una receta dulce típica de las islas Canarias que suele cocinarse sobre todo en la época navideña. Se trata de unas empanadillas individuales dulces, rellenas de batata y almendra, y aderezadas con matalauva, canela, ralladura de limón y licor de anís.</string>
+    <string name="noError"></string>
+    <string name="title_activity_navigation_menu">Cocina Conmigo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

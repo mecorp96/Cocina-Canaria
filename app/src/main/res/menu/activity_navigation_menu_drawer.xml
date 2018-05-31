@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_stat_profile2"
+            android:title="Mi perfil" />
+        <item
+            android:id="@+id/nav_recetas"
+            android:icon="@drawable/ic_stat_cake"
+            android:title="Recetas" />
+    </group>
+
+    <item android:title="Sesión">
+        <menu>
+            <item
+                android:id="@+id/nav_sesion"
+                android:icon="@drawable/ic_stat_signout"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>
